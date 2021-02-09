@@ -1,4 +1,2 @@
 # GMM-From-Scratch
-Implementation of Gaussian Mixture Model with EM Algorithm. 
-
-Implemented as the homework of CMPE544 Pattern Recognition Course.
+Simple implementation of Gaussian Mixture Model for clustering unlabeled data using Expectation-Maximization (EM) algorithm. This work is implemented as a homework of CMPE544 Pattern Recognition Course of Boğaziçi University.
